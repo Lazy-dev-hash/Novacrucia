@@ -1,8 +1,8 @@
 {
-  "PAGE_ACCESS_TOKEN": "EAAZAla0AZCCdUBO4IZBQtMQQq523nZBjzCgz59wI0sjrd3ZCSUiI7XbsuBaZAn6qv89XBiCzIZBp5yu7jf8mncZANSALqOZACI3Eymjq9p9ZAJaJUZAYGEuSx5doKBrbJAiSs7flv3PvVIFgAPZBRcTZAeDzBpPHQdknsDXZB9RfUbzASZC948ZC2CKrtJjMSCdgWrZAYZCX4DiQZDZD",
+  "PAGE_ACCESS_TOKEN": "EAAZAqHuSVZCiwBOy8ad3xodqmNnLK0Ki5xBfbNfRhoY3mhoOc7JB8YcNoNtZBhA7Da7b8OC55aIzOM92409m7KQjwcBy530ffRUohnZCj1xNvqt8W41ZCVfFtMD0eJe4vIRRPo2UN2syWRYTnGLV2l2aLdeazHzOlhbNQNR8KlMvOou70oCIZBOoNscg41rP9n",
   "VERIFY_TOKEN": "pagebot",
   "ADMINS": [
-    "24882697434652821"
+    "9099524193412494"
   ],
   "BOTNAME": "nekoai",
   "PREFIX": "/",
@@ -12,7 +12,7 @@
     "TITLE": "NOVACRUCIA"
   },
   "AUTO_UPDATE_CMD": true,
-  "GREETINGS_TEXT": "Hi, I am Novacrucia! Your friendly AI assistant, here to help with questions, tasks, and more. What's on your mind today?",
+  "GREETINGS_TEXT": "Hi, I am nelzyai! Your friendly AI assistant, here to help with questions, tasks, and more. What's on your mind today?",
   "selfListen": false,
   "markAsSeen": true
 }
