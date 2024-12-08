@@ -1,19 +1,19 @@
 {
   "PAGE_ACCESS_TOKEN": "",
-  "pageID": "",
-  "VERIFY_TOKEN": "YOURKEY",
+  "pageID": "107338188488706",
+  "VERIFY_TOKEN": "nelzyai",
   "ADMINS": [
-    ""
+    "100071157053751"
   ],
-  "BOTNAME": "BOTNAME",
+  "BOTNAME": "Nelzyai",
   "PREFIX": "/",
   "THEME_SETUP": {
     "THEME": "Fiery",
-    "ADMIN": "Your Name",
+    "ADMIN": "Sunnel",
     "TITLE": "NOVACRUCIA"
   },
   "AUTO_UPDATE_CMD": true,
-  "GREETINGS_TEXT": "Hi, I am Novacrucia! Your friendly AI assistant, here to help with questions, tasks, and more. What's on your mind today?",
+  "GREETINGS_TEXT": "Hi, I am NelzyAi! Your friendly AI assistant, here to help with questions, tasks, and more. What's on your mind today?",
   "selfListen": false,
   "markAsSeen": true
 }
